@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**JiuChiYl/JiuChiYl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:250px;
+    height:100px;
+    overflow: hidden;
+    border-radius: 10px;
+">
+  <img style="width:100%;" src="https://github.com/JiuChiYl/JiuChiYl/tree/main/imgs/a2.jpg">
+</div>
