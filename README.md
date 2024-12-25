@@ -18,5 +18,7 @@
 <div>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiuChiYl&show_icons=true&locale=en&bg_color=1,6495ed,ffc0cb&title_color=ffffff&icon_color=ffc0cb&text_color=d0ecff)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiuChiYl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
