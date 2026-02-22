@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/JSON-darkviolet?style=for-the-badge&logo=json&logoColor=default">
 </div>
 
+<!--
 > ## **📌My GitHub Card**
 <div>
   
@@ -22,3 +23,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiuChiYl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+-->
