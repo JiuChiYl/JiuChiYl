@@ -1,7 +1,7 @@
 # Hello ~ Welcome to my GitHub homepage 
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=我叫久池鸢里;是来自广州的苦逼大学牲;平时爱好打游戏,摄影和超级无聊的敲代码;也许,我的主页还有些好东西？&font=Roboto" />
-
+<!--
 > ## **🧾I know these languages**
 
 <div>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/PHP-pink?style=for-the-badge&logo=php&logoColor=default">
   <img src="https://img.shields.io/badge/JSON-darkviolet?style=for-the-badge&logo=json&logoColor=default">
 </div>
-
+-->
 <!--
 > ## **📌My GitHub Card**
 <div>
